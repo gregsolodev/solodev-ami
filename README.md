@@ -1,7 +1,9 @@
 # solodev-ami
-Build repo that uses Hashicorp Packer to generate Release AMI's
+Build repo that uses 
+Hashicorp Packer to 
+generate Release AMI's
 
-      =====   =======
+      =====   ======= 
   ====     ===       =====
  =                        =
 =                          =
